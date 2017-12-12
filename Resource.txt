@@ -1,0 +1,15 @@
+A Crash Course in Python for Scientists
+http://nbviewer.jupyter.org/gist/anonymous/5924718
+_____________________________________________________________________
+30 Python Language Features and Tricks You May Not Know About
+http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
+_____________________________________________________________________
+Official Style Guide for Python
+https://www.python.org/dev/peps/pep-0008/
+_____________________________________________________________________
+A curated list of awesome Python frameworks, libraries and software
+https://github.com/vinta/awesome-python
+_____________________________________________________________________
+Hitchhiker’s Guide to Python
+http://docs.python-guide.org/en/latest/
+
