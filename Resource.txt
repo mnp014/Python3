@@ -1,3 +1,8 @@
+Python The Hard Way
+Google Developers Python Course
+An Introduction to Python for Scientific Computing
+Learn X in Y Minutes
+_____________________________________________________________________
 A Crash Course in Python for Scientists
 http://nbviewer.jupyter.org/gist/anonymous/5924718
 _____________________________________________________________________
