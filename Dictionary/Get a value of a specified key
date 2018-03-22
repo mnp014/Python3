@@ -1,0 +1,1 @@
+print <varients>.get("<iphone 3G>", "<none>")
