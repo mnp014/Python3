@@ -1,0 +1,8 @@
+L = [{"V":"1"}, {"V": "2"}, {"VI": "1"}, {"VI": "5"}, {"VII":"5"}, {"V":"9"},{"VIII":"7"}]
+print("Original List: ",L)
+u_value = set( val for dic in L for val in dic.values())
+print("Unique Values: ",u_value)
+--------------------------------------------------------------------------------------------------
+o/p:
+Original List:  [{'V': '1'}, {'V': '2'}, {'VI': '1'}, {'VI': '5'}, {'VII': '5'}, {'V': '9'}, {'VIII': '7'}]                                                                                            
+Unique Values:  {'9', '2', '7', '5', '1'}  
