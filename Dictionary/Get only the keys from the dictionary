@@ -1,0 +1,15 @@
+phones = <varients>.keys()
+print phones
+------------------------------------------
+o/p
+
+iphone 3G iphone 4S iphone 3GS iphone iphone 5 iphone 4
+
+
+
+___________________________or_________________________________
+print "This dictionary contains these keys: ", " ".join(varients)
+------------------------------------------
+o/p
+
+This dictionary contains these keys: iphone 3G iphone 4S iphone 3GS iphone iphone 5 iphone 4
