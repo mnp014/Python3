@@ -1,0 +1,12 @@
+# Import package
+import requests
+
+# Assign URL to variable: url
+url = 'http://www.example.com/?api********'
+
+# Package the request, send the request and catch the response: r
+# Decode the JSON data into a dictionary: json_data
+
+# Print each key-value pair in json_data
+for k in json_data.keys():
+    print(k + ': ', json_data[k])
