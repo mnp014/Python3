@@ -1,0 +1,11 @@
+for V in <varients>:
+    print V
+--------------------------------------------
+o/p
+    
+    iphone 3G
+    iphone 4S
+    iphone 3GS
+    iphone
+    iphone 5
+    iphone 4
