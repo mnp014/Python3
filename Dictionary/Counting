@@ -1,0 +1,11 @@
+# Counting Occurances of values
+
+count = {}
+for element in <Varients>:
+    count[element] = count.get(element, 0) + 1
+print count
+
+---------------------------------------------------
+o/p:
+
+{'iphone 3G': 1, 'iphone 4S': 1, 'iphone 3GS': 1, 'iphone': 1, 'iphone 5': 1, 'iphone 4': 1}
