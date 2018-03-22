@@ -1,0 +1,6 @@
+from framework.common.logger import LOGGER
+
+LOGGER.info("......")
+LOGGER.error("......")
+LOGGER.debug("......")
+LOGGER.fatal
