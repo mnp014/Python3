@@ -1,0 +1,10 @@
+del varients["iphone 5S"]
+print varients
+---------------------------------------------
+o/p
+
+before:
+  {'iphone 5S': 2013, 'iphone 3G': 2008, 'iphone 4S': 2011}
+  
+After:  
+  {'iphone 3G': 2008, 'iphone 4S': 2011}
