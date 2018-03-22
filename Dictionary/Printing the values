@@ -1,0 +1,12 @@
+for X in <varients>:
+    releases= <varients>[X]
+    print releases
+-----------------------------------------
+o/p:
+
+2008
+2011
+2009
+2007
+2012
+2010
