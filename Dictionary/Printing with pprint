@@ -1,0 +1,3 @@
+pprint.pprint(<dictionary_name>)
+ex:
+pprint.pprint(<varients>)
