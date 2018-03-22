@@ -1,0 +1,7 @@
+# Import requests package
+# Assign URL to variable: url
+
+# Package the request, send the request and catch the response: r
+r = requests.get(url)
+
+# Print the text of the response
